@@ -133,8 +133,8 @@ export default {
         href: '/about'
       },
       'next.js-link': {
-        title: 'Next.js Docs',
-        href: 'https://nextjs.org?utm_source=nextra.site&utm_medium=referral&utm_campaign=sidebar'
+        title: '桃李博客',
+        href: 'https://ataoli.cn'
       },
       'migration-from-v3': {
         title: 'Migration from Nextra v3',
