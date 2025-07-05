@@ -101,7 +101,7 @@ export default {
   },
   docs: {
     type: 'page',
-    title: 'Documentation',
+    title: '文档',
     items: {
       index: '',
       'file-conventions': { items: FILE_CONVENTIONS },
