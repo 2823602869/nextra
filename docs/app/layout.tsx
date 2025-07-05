@@ -98,31 +98,7 @@ const RootLayout: FC<{
     <html lang="en" dir="ltr" suppressHydrationWarning>
       <Head />
       <body>
-        <Layout
-          banner={banner}
-          navbar={navbar}
-          pageMap={pageMap}
-          docsRepositoryBase="https://github.com/shuding/nextra/tree/main/docs"
-          editLink="Edit this page on GitHub"
-          sidebar={{ defaultMenuCollapseLevel: 1 }}
-          footer={footer}
-          toc={{
-            extraContent: (
-              <>
-                <b className="mt-2 text-xs">Sponsored by:</b>
-                <Anchor href="https://xyflow.com?utm_source=nextra.site&utm_campaign=nextra&utm_content=sidebarLink">
-                  <NextImage
-                    src={xyflow}
-                    alt="Wire your ideas with xyflow!"
-                    className="nextra-border rounded-sm border"
-                  />
-                </Anchor>
-              </>
-            )
-          }}
-        >
-          {children}
-        </Layout>
+        
       </body>
     </html>
   )
