@@ -136,10 +136,6 @@ export default {
         title: '桃李博客',
         href: 'https://ataoli.cn'
       },
-      'migration-from-v3': {
-        title: 'Migration from Nextra v3',
-        href: 'https://the-guild.dev/blog/nextra-4?utm_source=nextra.site&utm_campaign=sidebar&utm_content=sidebar_link#nextra-theme-docs-changes'
-      }
     }
   },
   about: {
